@@ -16,3 +16,7 @@ Today we are learning Github and Markdown
 
 ## link to page
 [Spiced Academy](https://www.spicedacademy.com)
+
+## add image
+
+![let's go](https://avatars.githubusercontent.com/u/112938202?s=200&v=4)
