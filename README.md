@@ -21,8 +21,8 @@ we can add a code line `console.log("almost done")`
 ### code block
 ```js
 let test = {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Jakob",
+  "lastName": "Gross",
+  "age": 41
 }
 ```
