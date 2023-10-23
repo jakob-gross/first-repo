@@ -20,7 +20,6 @@ Today we are learning Github and Markdown
 ## Image
 
 ![let's go](https://avatars.githubusercontent.com/u/112938202?s=200&v=4)
-![second image](./SNice.svg.png)
 
 ## code
 ### code line
