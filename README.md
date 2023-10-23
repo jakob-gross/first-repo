@@ -1,6 +1,6 @@
-# learning github and Markdown.
+# Hey there
 
-Today we are learning Github and Markdown
+Currently enrolled at Spiced Academy for web dev
 
 ## List Md
 
