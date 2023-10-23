@@ -14,9 +14,10 @@ Today we are learning Github and Markdown
 - Second item
 - third item
 
-## link to page
+## Link to page
 [Spiced Academy](https://www.spicedacademy.com)
 
-## add image
+## Image
 
 ![let's go](https://avatars.githubusercontent.com/u/112938202?s=200&v=4)
+![second image]()
