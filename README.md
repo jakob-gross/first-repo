@@ -1,3 +1,7 @@
 # learning github and Markdown.
 
-Today we are learning the basics
+Today we are learning Github and Markdown
+
+## Sub Title
+
+### Less important
