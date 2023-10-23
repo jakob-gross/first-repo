@@ -7,4 +7,9 @@ Today we are learning Github and Markdown
 ### Order List.
 1. First Item
 2. second item
-3. third tiem
+3. third Item
+
+#### Unordered List
+- First Item
+- Second item
+- third item
