@@ -2,16 +2,9 @@
 
 Currently enrolled at Spiced Academy for web dev
 
-## List Md
+- documentary filmmaker and director of photography learning tech
+- learning to code javascript
 
-### Order List.
-1. First Item
-2. second item
-3. third Item
-
-### Unordered List
-- First Item
-- Second item
 - third item
 
 ## Link to page
