@@ -21,3 +21,16 @@ Today we are learning Github and Markdown
 
 ![let's go](https://avatars.githubusercontent.com/u/112938202?s=200&v=4)
 ![second image](./SNice.svg.png)
+
+## code
+### code line
+we can add a code line `console.log("almost done")`
+
+### code block
+```js
+let test = {
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
